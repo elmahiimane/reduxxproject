@@ -26,9 +26,7 @@ It uses global state management with Redux and is fully responsive.
 ## 📷 Screenshots
 
 <img width="1919" height="961" alt="image" src="https://github.com/user-attachments/assets/6dcaf56a-83d1-4615-ae15-a80ea804fede" />
- <img width="395" height="173" alt="image" src="https://github.com/user-attachments/assets/d3c60a69-7296-475d-9d9a-a690192f624e" />
 <img width="978" height="489" alt="image" src="https://github.com/user-attachments/assets/eeac5ea8-6615-4412-b6ce-a396e7142ea9" />
-<img width="220" height="116" alt="image" src="https://github.com/user-attachments/assets/25ddb43d-5eb6-49a7-96f6-62f660178bc6" />
 <img width="220" height="186" alt="image" src="https://github.com/user-attachments/assets/243b64e1-2ddc-4412-8cc3-70bc8639bd8a" />
 <img width="822" height="385" alt="image" src="https://github.com/user-attachments/assets/aeee9366-879e-472b-b988-56d5026e1010" />
 
