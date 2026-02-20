@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "name": "farah", "cef": "123" },
+    { "name": "ahmed", "cef": "456" },
+    { "name": "imane", "cef": "456" }
+  ]
+}

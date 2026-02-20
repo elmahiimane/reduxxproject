@@ -1,0 +1,49 @@
+/* styles.css */
+
+/* Conteneur de la table */
+div {
+    margin: 20px 0;
+  }
+  
+  /* Titre du club */
+  h3 {
+    color: #333;
+    font-size: 23px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Style de la table */
+  table {
+    width: 100%;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 10px 12px rgba(23, 23, 23, 0.1);
+    border-collapse: collapse; /* Ajout pour réduire la bordure */
+  }
+  
+  /* Style des en-têtes de colonnes */
+  th, td {
+    padding: 16px;
+    text-align: left;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  /* Style des en-têtes de colonnes */
+  th {
+    background-color: #64a9ae;
+    font-weight: bold;
+    color: #555;
+  }
+  tr{
+    background-color: #e0e0e0;
+  }
+  
+  /* Style pour les lignes de la table au survol */
+  tbody tr:hover {
+    background-color: #f5f5f5;
+    transition: background-color 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ajout de l'ombre au survol */
+  }
+  

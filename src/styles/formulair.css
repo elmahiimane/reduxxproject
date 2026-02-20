@@ -1,0 +1,115 @@
+.form-background {
+   /* Set your desired background color */
+    height: 100vh;
+    width: 115vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #69cafe9c;
+  }
+
+  body {
+    overflow: hidden;
+  }
+  
+  .form-center {
+    max-width: 500px; /* Set your desired maximum width for the form */
+    width: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #e1d4d4;/* Set your desired background color for the form */
+    border-radius: 8px;
+    transform: scale(1); /* Initial scale, adjust as needed */
+    transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+    text-align: center;
+   
+  }
+  
+
+  
+  .submiit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;  
+  }
+  
+  .submiit input {
+    margin-bottom: 10px;
+   
+  }
+  
+  .form-background {
+    /* Set your desired background color */
+     height: 100vh;
+     width: 112vw;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+   
+   .form-center {
+     max-width: 500px; /* Set your desired maximum width for the form */
+     width: 400px;
+     padding: 20px;
+     box-sizing: border-box;
+     background-color: #e1d4d4;/* Set your desired background color for the form */
+     border-radius: 8px;
+     transform: scale(1); /* Initial scale, adjust as needed */
+     transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+     text-align: center;
+    
+   }
+   
+ 
+   
+   .submiit {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-top: 20px;
+   }
+   
+   .submiit input {
+     margin-bottom: 10px;
+   }
+   
+   .form-background {
+    /* Set your desired background color */
+     height: 100vh;
+     width: 112vw;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    
+     
+   }
+   
+   .form-center {
+     max-width: 500px; /* Set your desired maximum width for the form */
+     width: 400px;
+     padding: 20px;
+     box-sizing: border-box;
+     background-color: #e1d4d4;/* Set your desired background color for the form */
+     border-radius: 8px;
+     box-shadow: 0 0px 20px rgba(42, 15, 160, 0.1); /* Add a box shadow for a card-like effect */
+     transform: scale(1); /* Initial scale, adjust as needed */
+     transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+     text-align: center;
+    
+   }
+   
+ 
+   
+   .submiit {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-top: 20px;
+   }
+   
+   .submiit input {
+     margin-bottom: 10px;
+   }
+   
+   
