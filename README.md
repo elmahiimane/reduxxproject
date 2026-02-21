@@ -39,7 +39,7 @@ It uses global state management with Redux and is fully responsive.
 - Connecting React components with `useSelector` and `useDispatch`  
 - Handling forms and user input  
 - Vite setup for React projects  
-- Responsive UI design  
+ 
 
 ---
 
